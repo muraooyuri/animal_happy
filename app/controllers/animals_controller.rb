@@ -20,7 +20,6 @@ class AnimalsController < ApplicationController
   end
 
 
-
   private
 
     def touken_params
