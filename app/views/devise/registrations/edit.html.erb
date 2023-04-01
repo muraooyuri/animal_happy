@@ -4,6 +4,7 @@
       <div class="col-sm-12 col-md-8 col-lg-3 px-5 px-sm-0 mx-auto pt-4">
         
         <h2>プロフィール編集<%= resource_name.to_s.humanize %></h2>
+        
             <%= form_with model: @user, url: user_registration_path do |f| %>
                 <%= render "devise/shared/error_messages", resource: resource %>
   
