@@ -7,11 +7,14 @@
 #   Character.create(name: 'Luke', movie: movies.first)
 %i[ 
   子犬
+  成犬
   小型犬
   中型犬
   大型犬
+  老犬
   子猫
   猫
+  老猫
   鳥
   爬虫類
   その他
