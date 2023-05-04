@@ -1,0 +1,2 @@
+module AnimalGenresHelper
+end
