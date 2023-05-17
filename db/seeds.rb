@@ -40,7 +40,9 @@
   鳥
   インコ
   文鳥
-  梟
+  梟・ミミズク
+  ハリネズミ
+  フェレット
   爬虫類
   その他
 ].each { |name| Genre.find_or_create_by(name:) }
