@@ -4,7 +4,6 @@ class CreateAnimalComments < ActiveRecord::Migration[6.1]
       t.text :comment
       t.integer :user_id
       t.integer :animal_id
-
       t.timestamps
     end
   end

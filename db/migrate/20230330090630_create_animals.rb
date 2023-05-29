@@ -4,7 +4,6 @@ class CreateAnimals < ActiveRecord::Migration[6.1]
       t.string :title
       t.integer :user_id
       t.text :body
-      
       t.timestamps
     end
   end
